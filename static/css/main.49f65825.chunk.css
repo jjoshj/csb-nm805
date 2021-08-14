@@ -1,2 +1,0 @@
-body{padding:0}.maindiv{padding:10%}.App{font-family:sans-serif;text-align:center;border:1px solid #000;border-radius:10px;overflow:hidden}.card{display:grid;grid-template-columns:1fr 1fr;grid-gap:1rem;gap:1rem}.image{height:90px;background-color:grey;padding-top:50px;margin:0}.buttoncart{padding:10px}.cartno{margin-left:85%;padding:5px;margin-bottom:2%}@media (min-width:540px){.card{grid-template-columns:1fr 1fr 1fr}}@media (min-width:840px){.card{grid-template-columns:1fr 1fr 1fr 1fr}}
-/*# sourceMappingURL=main.49f65825.chunk.css.map */
